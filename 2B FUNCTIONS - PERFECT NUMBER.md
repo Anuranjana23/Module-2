@@ -1,6 +1,6 @@
 # Exp.No:2(b)	FUNCTIONS-PERFECT NUMBER
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 
 ### AIM
 To write a Python Program to check if a number is a Perfect number using the concept of functions.
