@@ -1,6 +1,6 @@
 # Exp.No:2(d)	LOOPING PATTERNS- PRINTING PATTERN
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 
 ### AIM
 To write a python program to print the triangular star pattern.
