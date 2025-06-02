@@ -1,6 +1,6 @@
 # Exp.No:2(e)	SEB- COMPUTING POWER
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 
 ### AIM
 To write a python Program to compute the power of the given number using appropriate built -in function .
