@@ -1,6 +1,6 @@
 # Exp.No:2(a)	ITERATIVE STATEMENTS- PRINTING N NATURAL NUMBERS  
-- **Name:** Naveen P 
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 
 
 ### AIM
